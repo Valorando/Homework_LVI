@@ -1,0 +1,57 @@
+@charset "windows-1251";
+
+
+table
+{
+    width: 1000px;
+    border-collapse: collapse;
+    border: 1px solid gray;
+    border-spacing: 0;
+    text-align: center;
+    font-size: 14px;
+}
+
+td
+{
+    border-spacing: 0;
+    border-collapse: collapse;
+    border: 1px solid gray;
+}
+
+#c1
+{
+    height: 50px;
+    font-size: 18px;
+}
+
+#c2
+{
+    height: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.color1
+{
+    background-color: rgb(255, 206, 115);
+}
+
+.color2
+{
+    background-color: rgb(184, 184, 253)
+}
+
+.color3
+{
+    background-color: rgb(255, 177, 177);
+}
+
+.color4
+{
+    background-color: rgb(164, 231, 164);
+}
+
+.color5
+{
+    background-color: rgb(238, 175, 238);
+}
